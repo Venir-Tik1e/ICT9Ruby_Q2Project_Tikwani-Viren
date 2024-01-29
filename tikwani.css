@@ -1,0 +1,31 @@
+body{
+	background-image: url(tropical.jpg);background-repeat: no-repeat;
+	background-size: 2800px;
+
+}
+
+#re {
+	font-family: Trebuchet MS, sans-serif;
+	text-align: center;
+
+	
+	}
+
+#ph { font-family: cursive; 
+		font-size: 18px;}
+
+#uno { font-family: cursive ;
+		
+	}
+
+
+#dos { text-align:left;
+
+	font-family: cursive; }
+
+#tres { font-family: cursive ;
+		
+	}
+
+#dosimg {font-family: Trebuchet MS, sans-serif;}
+
